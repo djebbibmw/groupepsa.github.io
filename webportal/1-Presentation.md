@@ -52,8 +52,7 @@ Here is actual available screen size: **SD** = 800 x 363 px ; **HD** = 1280 x 58
 **Standard-Definition**
 ![screen-res-sd]({{site.baseurl }}/assets/images/webportalPresentationScreenSD.png)
 
-**High-Definition**
-![screen-res-hd]({{site.baseurl }}/assets/images/webportalPresentationScreenHD.png)
+
 
 **Wide High-Definition**
 ![screen-res-whd]({{site.baseurl }}/assets/images/webportalPresentationScreenWHD.png)
